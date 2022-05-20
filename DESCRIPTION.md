@@ -1,16 +1,3 @@
-# See Jane - Crime Article Sentiment Analysis
-
-## Contact
-* Meredith Conroy
-* meredith@seejane.org
-
-## Organization
-* See Jane | The Geena Davis Institute on Gender in Media
-* https://seejane.org/ 
-
-## Organization Description
-Founded in 2004 by Academy Award Winning Actor Geena Davis, the Institute is the only research-based organization working collaboratively within the entertainment industry to create gender balance, foster inclusion and reduce negative stereotyping in family entertainment media.
-
 ## Project Type
 Data Science
 
@@ -70,16 +57,3 @@ The final deliverable off the project will be a CSV (Excel or Google Sheet) with
 The partner has a deadline to report their analysis of the new data by the end of April, so delivering the new data to them sometime before then (possibly middle of April?) would be preferable.
 
 If time permits, a report on any preliminary conclusions we can draw from the data would be helpful to the partner, but they understand if we cannot provide this.
-
-## Limitations
-_Identify / list limitations with data and potential risks of achieving project goal_
-
-Cleaning data may not always be "clean"; depending on the layout of a news article and the quality of its website (assuming all data consists of web articles), it may be difficult to clean the data efficiently. However, we will strive to clean as efficiently as we can for as much data as possible; the sheer number of 7000 articles gives us a lot to work with, and we hope to provide ample data for the client to work with. 
-
-With that said however, because there is so much data to clean and work with, our primary focus will be to clean, extract, and analyze the data and provide this information in an easy to navigate CSV for the partner to use in their own report. Depending on a variety of factors, we may not have time to write a report about what we can draw from the data. If we do have time though, we will try our best to report what we can find in a well-explained and well-organized manner for the client to accompany the CSV.
-
-One more note is that any analysis done on our end may not necessarily be up to the client's standards -- studying racial bias is not our forte, so we can only provide conclusions strictly based on the data and other general trends at most. We will strive to do our best, but our top priority is providing the CSV as described above in the deliverable section.
-
-## Additional Information
-_Other relevant information including links to previous work if this is a project continuation_
-
